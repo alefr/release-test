@@ -1,0 +1,14 @@
+{
+  "name": "release-test",
+  "version": "1.0.1",
+  "description": "testar release",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Bengan",
+  "license": "ISC"
+}
